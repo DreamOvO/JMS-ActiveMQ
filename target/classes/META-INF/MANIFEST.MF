@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springJMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ad
+Implementation-Vendor-Id: com.fz
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springJMS
+Created-By: Maven Integration for Eclipse
+
